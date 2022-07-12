@@ -11,14 +11,14 @@ address = '서울시 서초구 반포동'
 scores = {'korean':90, 'english':95, 'mathmatics':85, 'science':82}
 
 #pickling-save
-with open('Text/james.txt', 'wb') as file:
+with open('Text/unit27/james.txt', 'wb') as file:
     pickle.dump(name, file)
     pickle.dump(age, file)
     pickle.dump(address, file)
     pickle.dump(scores, file)
 
 #pickling-load
-with open('Text/james.txt', 'rb') as file:
+with open('Text/unit27/james.txt', 'rb') as file:
     name = pickle.load(file)
     age = pickle.load(file)
     address = pickle.load(file)
