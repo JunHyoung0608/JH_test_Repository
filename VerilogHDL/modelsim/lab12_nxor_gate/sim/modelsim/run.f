@@ -1,0 +1,2 @@
+../../src/rtl/nxor_gate.v
+../../testbench/th_logic_gate.v

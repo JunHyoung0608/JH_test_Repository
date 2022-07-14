@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/project/project_git/VerilogHDL/modelsim/lab02_and_gate/sim/modelsim
+vand_gate
+Z1 !s110 1657765228
+!i10b 1
+!s100 ?IRUNEj=Pn;f3]WXOzV_U3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IlbAGifMcgf6P^?CX?8B6e2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1657765006
+8../../src/rtl/and_gate.v
+F../../src/rtl/and_gate.v
+!i122 2
+L0 1 7
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1657765228.000000
+!s107 ../../testbench/th_logic_gate.v|../../src/rtl/and_gate.v|
+Z6 !s90 -reportprogress|300|-f|run.f|
+!i113 1
+Z7 tCvgOpt 0
+vtestbench
+R1
+!i10b 1
+!s100 nCzHo1P6GS`C7<HNZ<<fm0
+R2
+Io@6?<:3WcSIBcUeE@Y29I2
+R3
+R0
+w1657169694
+8../../testbench/th_logic_gate.v
+F../../testbench/th_logic_gate.v
+!i122 2
+L0 1 15
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 ../../testbench/th_logic_gate.v|../../src/rtl/and_gate.v|
+R6
+!i113 1
+R7
