@@ -4,7 +4,7 @@ module testbench();
     reg c;
     wire out;
 
-    and_gate ag(a,b,c,out);
+    nand_3in_gate ag(a,b,c,out);
 
     initial begin
         a = 1'b0; b = 1'b0; c = 1'b0;

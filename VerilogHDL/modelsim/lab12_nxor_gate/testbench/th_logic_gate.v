@@ -3,7 +3,7 @@ module testbench();
     reg b;
     wire out;
 
-    and_gate ag(a,b,out);
+    nxor_gate ag(a,b,out);
 
     initial begin
         a = 1'b0; b = 1'b0;
