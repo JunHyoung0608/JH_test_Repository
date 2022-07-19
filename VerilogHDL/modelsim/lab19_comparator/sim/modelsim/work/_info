@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/project/project_git/VerilogHDL/modelsim/lab19_comparator/sim/modelsim
+vcomparator
+Z0 !s110 1658213186
+!i10b 1
+!s100 <O3PIESB_F751[;AQUGBm2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IinQRiVBgO8IT[hZV<GLgV3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/project/project_git/VerilogHDL/modelsim/lab19_comparator(error)/sim/modelsim
+w1658213139
+8../../src/rtl/comparator.v
+F../../src/rtl/comparator.v
+!i122 6
+L0 1 7
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1658213186.000000
+!s107 ../../testbench/tb_comparator.v|../../src/rtl/comparator.v|
+Z6 !s90 -reportprogress|300|-f|run.f|
+!i113 1
+Z7 tCvgOpt 0
+vtestbench
+R0
+!i10b 1
+!s100 a;?n]=AT2Vdld4b6bAeN]1
+R1
+IOn_Vd8KgaXD>Y>6>kBeKN0
+R2
+R3
+w1658213179
+8../../testbench/tb_comparator.v
+F../../testbench/tb_comparator.v
+!i122 6
+L0 1 27
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 ../../testbench/tb_comparator.v|../../src/rtl/comparator.v|
+R6
+!i113 1
+R7

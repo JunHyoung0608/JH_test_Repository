@@ -10,23 +10,23 @@ z2
 cModel Technology
 Z0 dC:/project/project_git/VerilogHDL/modelsim/lab11_xor_3in_gate/sim/modelsim
 vtestbench
-Z1 !s110 1657765578
+Z1 !s110 1657766001
 !i10b 1
-!s100 fkn^91NJ`<zSLjA;<R0[@3
+!s100 jUX]SWR^W]gT_T_cbfLac0
 Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
-I_@B4gLD4SLAK[6H3_L=g10
+IoGoU>dlh6WgNEG<^Jk4Ch2
 Z3 VDg1SIo80bB@j0V0VzS_@n1
 R0
-w1657763305
+w1657765671
 8../../testbench/th_logic_3in_gate.v
 F../../testbench/th_logic_3in_gate.v
-!i122 0
+!i122 1
 L0 1 20
 Z4 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z5 !s108 1657765578.000000
+Z5 !s108 1657766000.000000
 !s107 ../../testbench/th_logic_3in_gate.v|../../src/rtl/xor_3in_gate.v|
 Z6 !s90 -reportprogress|300|-f|run.f|
 !i113 1
@@ -42,7 +42,7 @@ R0
 w1657765083
 8../../src/rtl/xor_3in_gate.v
 F../../src/rtl/xor_3in_gate.v
-!i122 0
+!i122 1
 L0 1 8
 R4
 r1

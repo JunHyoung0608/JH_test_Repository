@@ -10,7 +10,7 @@ z2
 cModel Technology
 Z0 dC:/project/project_git/VerilogHDL/modelsim/lab02_and_gate/sim/modelsim
 vand_gate
-Z1 !s110 1657765228
+Z1 !s110 1658211681
 !i10b 1
 !s100 ?IRUNEj=Pn;f3]WXOzV_U3
 Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
@@ -20,13 +20,13 @@ R0
 w1657765006
 8../../src/rtl/and_gate.v
 F../../src/rtl/and_gate.v
-!i122 2
+!i122 3
 L0 1 7
 Z4 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z5 !s108 1657765228.000000
+Z5 !s108 1658211681.000000
 !s107 ../../testbench/th_logic_gate.v|../../src/rtl/and_gate.v|
 Z6 !s90 -reportprogress|300|-f|run.f|
 !i113 1
@@ -42,7 +42,7 @@ R0
 w1657169694
 8../../testbench/th_logic_gate.v
 F../../testbench/th_logic_gate.v
-!i122 2
+!i122 3
 L0 1 15
 R4
 r1

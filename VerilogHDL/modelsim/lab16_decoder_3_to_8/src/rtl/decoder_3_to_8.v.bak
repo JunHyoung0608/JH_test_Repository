@@ -1,0 +1,23 @@
+module decoder_3_to_8 (y0, y1, y2, y3, y4, y5, y6, y7, in);
+  
+  input [2:0]in;
+  output y0, y1, y2, y3, y4, y5, y6, y7;
+
+  wire a = in[2]; 
+  wire b = in[1];
+  wire c = in[0];
+  wire an, bn, cn;
+
+  not(an, a);
+  not(bn, b);
+  not(cn, c);
+
+  and(y0, an, bn, cn);
+  and(y1, an, bn, c);
+  and(y2, an, b, cn);
+  and(y3, an, b, c);
+  and(y4, a, b, cn);
+  and(y5, a, bn, c);
+  and(y6, a, b, cn);
+  and(y7, a, b, c);
+endmodule

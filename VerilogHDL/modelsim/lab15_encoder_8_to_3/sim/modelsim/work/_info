@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/project/project_git/VerilogHDL/modelsim/lab14_parrity_odev/sim/modelsim
+vencoder_8_to_3
+Z1 !s110 1658193199
+!i10b 1
+!s100 1ghOjhCa[[=W2SOT8d8lk3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IZbnQgKe3Ki93?RELJV_@^0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 dC:/project/project_git/VerilogHDL/modelsim/lab15_encoder_8_to_3/sim/modelsim
+w1658124640
+8../../src/rtl/encoder_8_to_3.v
+F../../src/rtl/encoder_8_to_3.v
+!i122 22
+L0 1 8
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1658193199.000000
+!s107 ../../testbench/th_encoder_8_to_3.v|../../src/rtl/encoder_8_to_3.v|
+Z7 !s90 -reportprogress|300|-f|run.f|
+!i113 1
+Z8 tCvgOpt 0
+vparrity_odev
+!s110 1658123081
+!i10b 1
+!s100 <0>`hkkeXFLh>eC_C2enV2
+R2
+IUfa3XYnKN0H3QW]POakW21
+R3
+R0
+w1658122970
+8../../src/rtl/parrity_odev.v
+F../../src/rtl/parrity_odev.v
+!i122 9
+L0 1 24
+R5
+r1
+!s85 0
+31
+!s108 1658123081.000000
+!s107 ../../testbench/th_parrity_odev.v|../../src/rtl/parrity_odev.v|
+R7
+!i113 1
+R8
+vtestbench
+R1
+!i10b 1
+!s100 h_onnL5WOH1bKb88gHXAz1
+R2
+IcC@Y2@313BK@IHCh@>9`g1
+R3
+R4
+w1658193197
+8../../testbench/th_encoder_8_to_3.v
+F../../testbench/th_encoder_8_to_3.v
+!i122 22
+L0 1 18
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 ../../testbench/th_encoder_8_to_3.v|../../src/rtl/encoder_8_to_3.v|
+R7
+!i113 1
+R8
