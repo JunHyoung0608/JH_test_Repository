@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/project/project_git/VerilogHDL/modelsim/lab23_full_subtractor/sim/modelsim
+vfull_subtractor
+Z0 !s110 1658372879
+!i10b 1
+!s100 3`@c2]4H`b=?Xl_?Qo2lZ1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IE5ZY`C`a_`gf@XTbE6]S>0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/project/project_git/VerilogHDL/modelsim/lab23_full_subtractor(error)/sim/modelsim
+w1658372876
+8../../src/rtl/full_subtractor.v
+F../../src/rtl/full_subtractor.v
+!i122 13
+L0 1 7
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1658372879.000000
+!s107 ../../testbench/tb_full_subtractor.v|../../src/rtl/full_subtractor.v|
+Z6 !s90 -reportprogress|300|-f|run.f|
+!i113 1
+Z7 tCvgOpt 0
+vtestbench
+R0
+!i10b 1
+!s100 7MlcgYCAokXQX]@5=dYm50
+R1
+IRAPO2CkleG>i@:kL2;oEP2
+R2
+R3
+w1658372180
+8../../testbench/tb_full_subtractor.v
+F../../testbench/tb_full_subtractor.v
+!i122 13
+L0 1 17
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 ../../testbench/tb_full_subtractor.v|../../src/rtl/full_subtractor.v|
+R6
+!i113 1
+R7

@@ -1,0 +1,4 @@
+{signal: [
+  {name:"input",wave:'hl'},
+  {name:"output",wave:'lh'}
+]}
