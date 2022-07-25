@@ -1,0 +1,79 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/project/project_git/VerilogHDL/modelsim/lab27_SR_latch/sim/modelsim
+vD_latch
+Z1 !s110 1658716530
+!i10b 1
+!s100 A:^f>d<D;>cZ<1NiNN`ie2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IG_SH9b33e<ihbHja0KU?C1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 dC:/project/project_git/VerilogHDL/modelsim/lab28_D_latch/sim/modelsim
+w1658716363
+8../../src/rtl/D_latch.v
+F../../src/rtl/D_latch.v
+!i122 17
+L0 1 10
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1658716529.000000
+!s107 ../../testbench/tb_D_latch.v|../../src/rtl/D_latch.v|
+Z7 !s90 -reportprogress|300|-f|run.f|
+!i113 1
+Z8 tCvgOpt 0
+n@d_latch
+vSR_latch
+!s110 1658714137
+!i10b 1
+!s100 IYeJYdSYWh[RcRgSn]2`K0
+R2
+InL:=k>j?`kgIFm[lZ[iAB1
+R3
+R0
+w1658714020
+8../../src/rtl/SR_latch.v
+F../../src/rtl/SR_latch.v
+!i122 10
+L0 1 11
+R5
+r1
+!s85 0
+31
+!s108 1658714137.000000
+!s107 ../../testbench/tb_SR_latch.v|../../src/rtl/SR_latch.v|
+R7
+!i113 1
+R8
+n@s@r_latch
+vtestbench
+R1
+!i10b 1
+!s100 XNz`8Tn5EYc>HnUh5d>_D3
+R2
+ITkMCT1FfCcCO;kjl6K1FP1
+R3
+R4
+w1658716519
+8../../testbench/tb_D_latch.v
+F../../testbench/tb_D_latch.v
+!i122 17
+L0 1 24
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 ../../testbench/tb_D_latch.v|../../src/rtl/D_latch.v|
+R7
+!i113 1
+R8

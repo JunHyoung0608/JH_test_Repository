@@ -1,0 +1,7 @@
+{signal: [
+  {name:"J",wave:'l...h...'},
+  {name:"K",wave:'l.h.l.h.'},
+  {name:"CLK",wave:'lhlhlhlh'},
+  {name:"q",wave:'xxxl.h.l'},
+  {name:"qb",wave:'xxxh.l.h'}
+]}

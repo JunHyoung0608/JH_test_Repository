@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/project/project_git/VerilogHDL/modelsim/lab32_T_FF/sim/modelsim
+vt_ff
+Z1 !s110 1658727711
+!i10b 1
+!s100 fe2n8WKASdnBm@lkUEoXn3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I_KMJ]oY?;c:SbMz7ebT>C1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1658727608
+8../../src/rtl/T_FF.v
+F../../src/rtl/T_FF.v
+!i122 9
+L0 1 15
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1658727711.000000
+!s107 ../../testbench/tb_T_FF.v|../../src/rtl/T_FF.v|
+Z6 !s90 -reportprogress|300|-f|run.f|
+!i113 1
+Z7 tCvgOpt 0
+vtestbench
+R1
+!i10b 1
+!s100 FhdBQ?HQACm`IIJ`E>BZP0
+R2
+I7XNE?LT]65oB28KW<]@Rc2
+R3
+R0
+w1658727704
+8../../testbench/tb_T_FF.v
+F../../testbench/tb_T_FF.v
+!i122 9
+L0 1 19
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 ../../testbench/tb_T_FF.v|../../src/rtl/T_FF.v|
+R6
+!i113 1
+R7
