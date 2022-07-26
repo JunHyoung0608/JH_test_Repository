@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/project/project_git/VerilogHDL/modelsim/lab35_johnson_counter/sim/modelsim
+vjohnson_counter
+Z1 !s110 1658807744
+!i10b 1
+!s100 NeQ43YVlm6f`E1UAhLJMg1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IGHm8lFeF9Adnj<ZGXZ:Zk1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1658807741
+8../../src/rtl/johnson_counter.v
+F../../src/rtl/johnson_counter.v
+!i122 14
+L0 1 22
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1658807744.000000
+!s107 ../../testbench/tb_johnson_counter.v|../../src/rtl/johnson_counter.v|
+Z6 !s90 -reportprogress|300|-f|run.f|
+!i113 1
+Z7 tCvgOpt 0
+vtestbench
+R1
+!i10b 1
+!s100 clWCP>:D=G[OE9mg9BRjC2
+R2
+I9:GkmjTJHK^zk9OJm0RFM1
+R3
+R0
+w1658802262
+8../../testbench/tb_johnson_counter.v
+F../../testbench/tb_johnson_counter.v
+!i122 14
+L0 1 14
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 ../../testbench/tb_johnson_counter.v|../../src/rtl/johnson_counter.v|
+R6
+!i113 1
+R7
